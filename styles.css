@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    background-color: black;
+    color: white;
+  }
+h1{
+    font-family: 'Sacramento', cursive;
+}
+.first{
+    text-align: center;
+    background-color: silver;
+    padding-top: 20px;
+    margin: 0;
+    font-size: 80px;
+    padding-bottom: 10px;
+    height: 100px;
+}
+.moon-gif{
+    align-items: left;
+    height: 100px;
+    padding-right: 1400px;
+}
+.heading{
+    padding-bottom: 40px;
+    font-size: 50px;
+    margin-bottom: 80px;
+    color: black;
+}
+.moon-gif1{
+    align-items: right;
+    height: 100px;
+    padding-left: 1400px;
+}
+.photo-1{
+    height: 250px;
+}
+.h6{
+    color: black;
+}
